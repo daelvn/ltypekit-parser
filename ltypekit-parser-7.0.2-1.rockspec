@@ -1,5 +1,5 @@
 package = "ltypekit-parser"
-version = "7.0.1-1"
+version = "7.0.2-1"
 description = {
   summary = "Source code for ltypekit7's signature parser, unembedded.",
   detailed = [[This is the source for ltypekit7's signature parser, extracted from the original project and adapted to use debugkit. ltypekit7 dependencies are also removed so this library is standalone, and parses signatures just as ltypekit7 does.]],
@@ -8,7 +8,7 @@ description = {
 dependencies = { "debugkit",  }
 source = {
   url = "git://github.com/daelvn/ltypekit-parser.git",
-  tag = "v7.0.1",
+  tag = "v7.0.2",
 }
 build = {
   type = "builtin",
