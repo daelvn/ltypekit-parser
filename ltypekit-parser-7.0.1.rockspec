@@ -8,6 +8,7 @@ description = {
 dependencies = { "debugkit",  }
 source = {
   url = "git://github.com/daelvn/ltypekit-parser.git",
+  tag = "v7.0.1",
 }
 build = {
   type = "builtin",
